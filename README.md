@@ -1,9 +1,13 @@
 # Find the longest road
 
-## Run Test
+## Run
 
 ```bash
+# test
 npm test
+
+# benchmark
+npm run benchmark
 ```
 
 ## Build

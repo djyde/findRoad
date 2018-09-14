@@ -1,6 +1,7 @@
 {
   "scripts": {
     "start": "tsc --watch",
+    "benchmark": "node lib/benchmark",
     "test": "jest"
   },
   "dependencies": {
