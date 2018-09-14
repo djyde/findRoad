@@ -3,11 +3,11 @@
 ## Run
 
 ```bash
-# test
-npm test
+npm i # install dependencies
 
-# benchmark
-npm run benchmark
+npm test # test
+
+npm run benchmark # benchmark
 ```
 
 ## Build
