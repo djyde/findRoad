@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "tsc --watch",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/node": "^10.9.4",
+    "typescript": "^3.0.3"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
